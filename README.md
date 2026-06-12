@@ -23,9 +23,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,flutter,dart,python,laravel,mysql,mongodb,firebase,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flutter,dart,python,java,git,github,vscode,mysql,mongodb,firebase" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
