@@ -35,16 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BasselAlShaar&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasselAlShaar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=BasselAlShaar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,8 +48,8 @@ A modern web application for following the FIFA World Cup with fixtures, standin
 ### 🧠 Mind Mentor
 An AI-powered mental wellness platform designed to provide guidance, support, and helpful resources.
 
-### 💡 IdeaComp
-An AI platform that helps users evaluate business ideas, discover opportunities, and make smarter financial decisions.
+### 🎵 Music Genre Classifier
+A machine learning project that analyzes audio features to classify songs into different music genres using AI techniques. Built to explore audio processing, feature extraction, and predictive modeling.
 
 ---
 
@@ -68,14 +59,6 @@ An AI platform that helps users evaluate business ideas, discover opportunities,
 - 🤖 Learn more about AI integrations
 - 📱 Improve Flutter development skills
 - ☁️ Explore cloud deployment and DevOps
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasselAlShaar&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
